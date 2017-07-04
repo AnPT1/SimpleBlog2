@@ -1,0 +1,9 @@
+D:\20.Learning\Angular2_TestTask\SimpleBlog\bin\Debug\netcoreapp1.1\SimpleBlog.deps.json
+D:\20.Learning\Angular2_TestTask\SimpleBlog\bin\Debug\netcoreapp1.1\SimpleBlog.runtimeconfig.json
+D:\20.Learning\Angular2_TestTask\SimpleBlog\bin\Debug\netcoreapp1.1\SimpleBlog.runtimeconfig.dev.json
+D:\20.Learning\Angular2_TestTask\SimpleBlog\bin\Debug\netcoreapp1.1\SimpleBlog.dll
+D:\20.Learning\Angular2_TestTask\SimpleBlog\bin\Debug\netcoreapp1.1\SimpleBlog.pdb
+D:\20.Learning\Angular2_TestTask\SimpleBlog\obj\Debug\netcoreapp1.1\SimpleBlog.AssemblyInfo.cs
+D:\20.Learning\Angular2_TestTask\SimpleBlog\obj\Debug\netcoreapp1.1\SimpleBlog.dll
+D:\20.Learning\Angular2_TestTask\SimpleBlog\obj\Debug\netcoreapp1.1\SimpleBlog.pdb
+D:\20.Learning\Angular2_TestTask\SimpleBlog\obj\Debug\netcoreapp1.1\SimpleBlog.csprojResolveAssemblyReference.cache

@@ -1,0 +1,26 @@
+
+<div *ngFor="let article of articleList">
+    <div class="row">
+        <div class="col-md-12">
+            <h3>{{article.articleTitle}}</h3>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-md-12">
+            <div class="col-md-3">
+                Category: <span>{{article.category}}</span>
+               
+            </div>
+            <div class="col-md-3">
+                Author: <span>{{article.author}}</span>
+            </div>
+            <div class="col-md-3">
+                Created Date: <span>{{article.createDate}}</span>
+            </div>
+        </div>
+        <div class="col-md-12">
+            <p>{{article.articleContent}}</p>
+        </div>
+        </div>
+    <hr />
+</div>

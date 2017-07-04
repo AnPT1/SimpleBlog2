@@ -1,0 +1,28 @@
+<form>
+    <div class="row">
+        <div class="col-md-12">
+            <h3>New Post</h3>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-md-12 form-group">
+            <label>Title</label>
+            <input type="text"
+                   class="form-control"
+                   id="name" placeholder="Name"
+                   formControlName="articleTitle"
+                   tabindex="1"
+                   maxlength="40"
+                   [(ngModel)]="showArticleData.ArticleTitle">
+        </div>
+        <div class="col-md-12 form-group">
+            <label>Content</label>
+            <textarea class="form-control" formControlName="articleContent" rows="20" [(ngModel)]="showArticleData.ArticleContent"></textarea>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-md-12 form-group text-center">
+            <button class="btn btn-primary" (click)="createNewArticle();" type="button">Submit</button>
+        </div>
+    </div>
+</form>
